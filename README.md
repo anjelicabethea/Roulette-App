@@ -8,3 +8,4 @@
 ## Usage
 1. run `node server.js`
 2. Navigate to `localhost:1500`
+# Roulette-App
